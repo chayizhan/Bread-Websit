@@ -1,6 +1,5 @@
 body {
     width: 100%;
-    border: 3px solid green; 
     position: relative;
     overflow-x:hidden;/*隐藏底部滚动条*/
 }
